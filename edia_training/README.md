@@ -1,3 +1,5 @@
+[![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QC-Edu/workshops/blob/main/edia_training/EDIA_EDA_training_2025March.ipynb)
+
 # Data Analysis with Modern and Accessible Tools in Python
 
 This presentation is funded through the DRI EDIA Champions Pilot Program of the Digital Research Alliance of Canada and supported by QC-Devs International Software Consortium.
