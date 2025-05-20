@@ -1,4 +1,4 @@
-log [cNMP] (M),ligand,activity,activity,activity
+[cNMP](M),ligand,activity,activity,activity
 0.0005,Lig_A,89.44276227,93.47812001,91.93199227
 0.000143,Lig_A,87.54377039,89.91751024,89.61915311
 0.0000408,Lig_A,80.42255085,87.30639641,84.90631433
